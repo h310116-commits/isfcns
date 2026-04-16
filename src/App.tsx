@@ -130,8 +130,8 @@ export default function App() {
             <div className="mt-20 pt-10 border-t border-gray-100 flex justify-between items-center">
               <div className="flex gap-4">
                 <span className="text-xs tracking-widest uppercase text-gray-400">Share:</span>
-                <a href="#" className="text-gray-400 hover:text-black"><Facebook size={16} /></a>
-                <a href="#" className="text-gray-400 hover:text-black"><Twitter size={16} /></a>
+                <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-black"><Facebook size={16} /></a>
+                <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-black"><Twitter size={16} /></a>
               </div>
             </div>
           </article>
@@ -175,7 +175,7 @@ export default function App() {
             <p className="text-gray-600 leading-loose font-light text-lg">
               {content.sidebar.about.description}
             </p>
-            <p className="text-gray-600 leading-loose font-light text-lg mt-6">
+            <p className="text-gray-600 leading-loose font-light text-lg mt-6 whitespace-pre-wrap">
               {content.sidebar.aboutExtended}
             </p>
             <div className="mt-16 flex justify-center gap-6">

@@ -126,8 +126,8 @@
 {
   "nav": [
     { "label": "首頁", "type": "home" },
+    { "label": "[簡易飛行]", "type": "category", "value": "LIFESTYLE" },
     { "label": "校園穿搭", "type": "category", "value": "OUTFIT" },
-    { "label": "生活隨筆", "type": "category", "value": "LIFESTYLE" },
     { "label": "關於我", "type": "about" }
   ]
 }
@@ -212,8 +212,8 @@
 {
   "sidebar": {
     "categories": [
-      { "name": "校園穿搭 (OUTFITS)", "value": "OUTFIT", "count": 12 },
-      { "name": "生活隨筆 (LIFESTYLE)", "value": "LIFESTYLE", "count": 8 }
+      { "name": "簡易飛行 (LIFESTYLE)", "value": "LIFESTYLE", "count": 8 },
+      { "name": "校園穿搭 (OUTFITS)", "value": "OUTFIT", "count": 12 }
     ]
   }
 }
